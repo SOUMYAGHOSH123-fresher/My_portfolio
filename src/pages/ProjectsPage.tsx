@@ -7,7 +7,7 @@ const ProjectsPage = () => {
       title: "Online Job Portal",
       description: "Developed a responsive job portal website enabling job seekers to upload resumes and search for jobs using advanced filters, while allowing employers to post job applications. Built with Node.js, MongoDB, and JavaScript platforms that streamline recruitment processes with secure authentication and user-friendly interfaces.",
       image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=800",
-      link: "https://github.com/SOUMYAGHOSH123-fresher/Job-Portal-Website"
+      link: "https://github.com/SOUMYAGHOSH123-fresher/Job_Portal_Website"
     },
     {
       title: "Automobiles Sales Management",
@@ -25,7 +25,7 @@ const ProjectsPage = () => {
       title: "Online Library Management",
       description: "The Online Library Management System project is designed to streamline and enhance the management of library operations through a user-friendly interface built using Java in the NetBeans IDE. This system aims to facilitate the efficient handling of book records, user registrations, and transactions within a library environment.",
       image: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=800",
-      link: "#"
+      link: "https://github.com/SOUMYAGHOSH123-fresher/Online_Library_Management"
     }
   ];
 
